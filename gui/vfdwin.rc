@@ -92,7 +92,7 @@ FONT 9, "MS Shell Dlg", 0, 0, 0x1
 BEGIN
     CTEXT           "Virtual Floppy Drive for Windows",IDC_ABOUT_TITLE,35,7,
                     180,8,NOT WS_GROUP
-    PUSHBUTTON      "http://chitchat.at.infoseek.co.jp/vmware/vfd.html",
+    PUSHBUTTON      "https://github.com/muteoff/VirtualFloppyDrive-x86",
                     IDC_ABOUT_URL,25,31,200,14
     ICON            IDI_OPEN_ICON,IDC_STATIC,7,7,20,20
     EDITTEXT        IDC_ABOUT_HELP,7,51,236,142,ES_MULTILINE | ES_READONLY | 
