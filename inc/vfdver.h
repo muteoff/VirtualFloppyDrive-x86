@@ -21,8 +21,8 @@
 #define VFD_DRIVER_MINOR            1
 
 //  build year and month/date
-#define VFD_BUILD_YEAR              2008
-#define VFD_BUILD_MDAY              0206
+#define VFD_BUILD_YEAR              2022
+#define VFD_BUILD_MDAY              0704
 
 //  copyright information
 #define VFD_COMPANY_NAME            "Ken Kato"
